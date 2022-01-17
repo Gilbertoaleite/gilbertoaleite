@@ -2,9 +2,9 @@
 
 
 
-- 🔭 Hoje eu trabalho como vigilante
-- 🌱 Estudando full stack
-- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com
+- 🔭 No momento estou focado e na minha transição de carreira pra área de developer.
+- 🌱 Estudando front, back end, java, python e outros.
+- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com.
 - 😄 Pronouns: Gil
 
 
