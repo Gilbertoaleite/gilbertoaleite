@@ -3,7 +3,7 @@
 
 
 - 🔭 No momento estou focado na minha transição de carreira pra área de developer.
-- 🌱 Estudando front, back end, java, python e outros.
+- 🌱 Estudando front-end React, Next JS.
 - 📫 Contate-me no meu email: gilbertoaleite@hotmail.com.
 - 😄 Pronouns: Gil
 
