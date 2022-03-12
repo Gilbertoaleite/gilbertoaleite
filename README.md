@@ -1,14 +1,11 @@
 
 
-
-
-- 🔭 No momento estou focado na minha transição de carreira pra área de developer.
-- 🌱 Estudando front-end React, Next JS.
-- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com.
+- 🌱 Desenvolvedor front-end React, Next.js. // Front end developer React and Next.js
+- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com  // My e-mail is: gilbertoaleite@hotmail.com
 - 😄 Pronouns: Gil
 
-
-### Olá! Eu sou o Gilberto Leite
+### Hello my name is Gilberto A Leite,
+### Olá! Eu meu nome é Gilberto A Leite,
 <div align="center">
   <a href="https://gilbertoaleite-portfolio.netlify.app" target="_blanck" ></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilbertoaleite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
