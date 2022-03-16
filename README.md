@@ -1,7 +1,9 @@
 
 
-- 🌱 Desenvolvedor front-end React, Next.js. // Front end developer React and Next.js
-- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com  // My e-mail is: gilbertoaleite@hotmail.com
+- 🌱 Desenvolvedor front-end React, Next.js.
+-    Front end developer React and Next.js
+- 📫 Contate-me no meu email: gilbertoaleite@hotmail.com  
+- Contact in  my e-mail: gilbertoaleite@hotmail.com
 - 😄 Pronouns: Gil
 
 ### Hello my name is Gilberto A Leite,
@@ -16,6 +18,7 @@
   <img align="center" alt="Gil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gil-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gil-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gil-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="Gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
